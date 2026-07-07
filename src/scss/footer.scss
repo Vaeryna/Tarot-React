@@ -1,0 +1,21 @@
+.styleImg {
+  border-radius: 50%;
+  width: 5vh
+}
+
+.styleFooter {
+  font-family: font-mono text-xs, serif;
+  font-size: small;
+  display: flex;
+  flex-direction: row;
+  padding-top: 20%
+}
+
+a {
+  text-decoration: none;
+  color: black;
+
+  a:hover{
+    text-decoration: underline;
+  }
+}

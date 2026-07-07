@@ -1,0 +1,667 @@
+[
+  {
+    "id": 0,
+    "name": "Le Lapin",
+    "number": "0",
+    "description": "Un regard doux, un museau rougi — la naïveté peut mordre.",
+    "interpretation": "Tu avances sans méfiance, le cœur tendre et les crocs bien cachés. Cette carte te rappelle que même les plus innocents peuvent frapper. Sous ton apparente douceur, il y a une force primaire : instinctive, imprévisible. Ne sous-estime ni toi, ni les autres. Le danger n’a pas toujours les traits qu’on attend."
+  },
+  {
+    "id": 1,
+    "name": "Le Chien",
+    "number": "1",
+    "description": "Il remue la queue… mais quelque chose cloche dans ses yeux.",
+    "interpretation": "Tu cherches l’amour, la reconnaissance, la caresse sur la tête. Mais à trop vouloir plaire, tu perds ta nature. Cette carte parle de dépendance affective, de loyautés bancales, d’un cœur prêt à mordre quand on tire trop sur la laisse. Attention à ce que tu pardonnes. Et à ce que tu t’apprêtes à dévorer en retour."
+  },
+  {
+    "id": 2,
+    "name": "Le Hérisson",
+    "number": "2",
+    "description": "Il tient la lame comme un pinceau, le sang comme une encre ancienne. Sa silhouette douce masque une précision cérémonielle.",
+    "interpretation": "Tu fais les choses proprement. Lentement. Sans trembler. Des gestes maîtrisés, une tendresse armée, une logique qui tranche sans colère. Le hérisson ne tue pas : il inscrit, il corrige, il clôt. Ce que tu laisses couler aujourd’hui, c’est peut-être le prix d’un équilibre que toi seul(e) comprends. Méfie-toi de ceux qui confondent ton calme avec de l’innocence."
+  },
+  {
+    "id": 3,
+    "name": "La Souris",
+    "number": "3",
+    "description": "Elle grignote des secrets, avec des dents trop propres.",
+    "interpretation": "Petite, rapide, discrète — tu avances dans les ombres, à l’abri des regards. Mais ce que tu ramasses, ce que tu caches dans ton terrier, finit par te ronger. Cette carte parle de silence corrosif, de vérités mâchées, de culpabilité avalée. Tu veux être oubliée… mais ta trace est sanglante, même minuscule."
+  },
+  {
+  "id": 4,
+  "name": "La Chèvre",
+  "number": "4",
+  "description": "Une silhouette docile dans un champ fleuri. Mais ses sabots sont rouges.",
+  "interpretation": "Tu avances à pas feutrés dans une innocence étudiée. Tu souris, tu berces, tu rassures… mais chaque fleur cache une victime. Cette carte parle de cruauté tranquille, d’actes maquillés en douceur. On te pense inoffensive ? Tu l’as bien voulu. Ce n’est pas toi qui cries — mais c’est bien toi qui tiens la faux."
+}
+,
+  {
+    "id": 5,
+    "name": "Le Chat",
+    "number": "5",
+    "description": "Il ronronne, il patoune… puis il ne rend pas ce qu’il a pris.",
+    "interpretation": "Tu avances à pas feutrés, charmeur ou charmeuse, imprévisible. Tu n’attaques jamais de face. Mais ce jeu de séduction masque un besoin de contrôle. Cette carte parle de manipulation douce, de griffes rentrées, de cruauté déguisée en câlin. Tu peux aimer sincèrement — mais parfois, tu veux juste posséder ce qui bouge. Même s’il faut le casser pour ça."
+  },
+  {
+    "id": 6,
+    "name": "La Chouette",
+    "number": "6",
+    "description": "Ses plumes sont soyeuses, mais ses serres creusent des tombes.",
+    "interpretation": "Tu observes. Tu restes en hauteur. Tu sais des choses que d’autres ne veulent pas entendre. Cette carte parle de lucidité froide, de silence qui tranche, d’un regard qui enterre sans mot dire. Tu ne cries jamais. Tu constates. Et c’est déjà une forme de jugement."
+  },
+  {
+    "id": 7,
+    "name": "Le Dragon",
+    "number": "7",
+    "description": "Ses ailes couvrent le ciel, son trône est bâti d’ossements aimés.",
+    "interpretation": "Tu es plus grand que ce que tu crois. Tu inspires, tu écrases, tu consumes. Cette carte parle de puissance assumée, de domination sans pitié, de solitude impériale. Tu ne cherches pas l’amour : tu attires la révérence. Mais chaque conquête te laisse plus seul. Il faut choisir entre être adoré… ou être approché."
+  },
+  {
+    "id": 8,
+    "name": "Le Lynx",
+    "number": "8",
+    "description": "Il te fixe sans bruit. Et quand tu comprends, il est trop tard.",
+    "interpretation": "Tu ressens plus que tu ne parles. Tu observes, tu analyses, tu attends le moment exact. Cette carte parle d’intuition tranchante, de présence insaisissable, de décisions qui viennent sans explication. Tu ne justifies pas. Tu agis. Et ce que tu ne dis pas… est souvent ce qui fait le plus mal."
+  },
+{
+  "id": 9,
+  "name": "La Girafe",
+  "number": "9",
+  "description": "Elle plie le cou avec grâce… pour mieux tremper ses lèvres dans ce qu’elle ne devrait pas boire.",
+  "interpretation": "Tu te dresses plus haut que les autres, mais tu te nourris de choses que tu refuses de nommer. Cette carte parle de curiosité déplacée, de raffinements douteux, d’élégance souillée. Tu veux rester au-dessus, intact·e — mais ce que tu touches laisse des marques. Et cette hauteur ne t’empêche pas de te salir."
+}
+,
+  {
+    "id": 10,
+    "name": "La Loutre",
+    "number": "10",
+    "description": "Elle joue dans l’eau, mais ses cailloux regardent.",
+    "interpretation": "Tu caches tes pensées sous un flot de gestes vifs, de sourires et d’apparences. Mais ce qui t’habite est plus sombre. Cette carte parle de camouflage émotionnel, de surface calme et de profondeur inquiétante. Tu veux faire croire que tu t’amuses. Mais ce que tu manipules a des yeux."
+  },
+  {
+  "id": 11,
+  "name": "L’Ours Polaire Enveloppé",
+  "number": "11",
+  "description": "Il avance dans la banquise, drapé d’un manteau qui n’est pas à lui.",
+  "interpretation": "Tu te protèges, tu t’adaptes, tu te caches sous ce qui impressionne. Mais ce manteau pèse lourd. Cette carte parle de protection morbide, d’emprunt démesuré, d’un masque glacial cousu trop serré. Tu avances... mais à quel prix ?"
+}
+,
+  {
+    "id": 12,
+    "name": "Le Cerf",
+    "number": "12",
+    "description": "Il tremble, mais les bois sont encore tachés.",
+    "interpretation": "Tu fais mine d’être la victime, la cible fragile. Mais cette carte parle de passivité complice, de sang sur les mains même quand on n’a pas frappé. Tu étais là. Tu n’as rien dit. Et le monde s’en souvient."
+  },
+  {
+    "id": 13,
+    "name": "Le Raton Laveur",
+    "number": "13",
+    "description": "Ses mains sont agiles. Elles volent plus que des miettes.",
+    "interpretation": "Tu prends ce qui t’arrange, sans te demander à qui ça appartenait. Cette carte parle d’opportunisme, de duplicité souriante, de charme destructeur. Tu ris, mais tu as vidé quelqu’un d’autre en passant. Par jeu ? Ou par besoin ?"
+  },
+  {
+    "id": 14,
+    "name": "Le Phénix",
+    "number": "14",
+    "description": "Il renaît… mais de quoi était fait le nid ?",
+    "interpretation": "Tu parles de renouveau, de transformation, de lumière après les cendres. Mais cette carte te demande ce que tu brûles pour te relever. Combien de vivants dois-tu réduire en cendres pour briller à nouveau ?"
+ 
+    },
+  {
+    "id": 15,
+   "name": "Le Panda Roux",
+    "number": "15",
+    "description": "Il a l’air perdu, mais ses pattes sont occupées.",
+    "interpretation": "Tu sembles inoffensif, doux, presque trop pur. Et c’est ce que tu veux. Cette carte parle de stratégie affective, de manipulation par la tendresse, de masques rouges et blancs. On se laisse approcher. Et on ne se rend pas compte que tu arraches des morceaux pendant qu’on t’aime."
+    },
+  {
+    "id": 16,
+    "name": "L’Orque",
+    "number": "16",
+    "description": "Ses cercles sont parfaits, ses morts aussi.",
+    "interpretation": "Tu as des règles, des cycles, des gestes répétés. Cette carte parle de cruauté méthodique, de prédation codifiée, de beauté dans la destruction. Tu dis que tu respectes un ordre… mais il est à ton image. Et il laisse flotter trop de morceaux derrière toi."
+   },
+  {
+    "id": 17,
+    "name": "Le Furet",
+    "number": "17",
+    "description": "Il adore les surprises. Surtout quand elles crient.",
+    "interpretation": "Tu vis dans l’excitation, l’élan, la curiosité extrême. Mais cette carte parle d’instincts incontrôlés, d’explorations dangereuses, de fascination pour ce qui bouge — ou ce qui saigne. Tu ne veux pas faire mal. Mais tu aimes quand ça réagit."
+
+     },
+  {
+    "id": 18,
+    "name": "Le Loup",
+    "number": "18",
+    "description": "Il attend, silencieux, la truffe posée sur tes traces.",
+  "interpretation": "Tu observes sans agir, tu te tapis dans les angles morts, tu fais croire que tu n’es pas là. Cette carte parle de patience prédateur, de vigilance extrême, et d’un appétit que tu refuses de nommer. Ce n’est pas l’instant qui compte, mais la certitude que tu finiras par mordre. Et plus tu restes immobile, plus tu rends ta morsure inévitable."
+  },
+  {
+    "id": 19,
+  "name": "L’Écureuil",
+    "number": "19",
+    "description": "Il cache ses réserves. Mais ce qu’il enterre est trop rouge.",
+    "interpretation": "Tu es prévoyant, minutieux, toujours en train de stocker pour demain. Mais cette carte parle d’un trop-plein, d’un besoin de contrôle qui devient malsain. Tu veux tout garder — même ce qui ne devrait pas survivre. Et à force d'enterrer, tu risques de déterrer pire."
+  
+    },
+  {
+    "id": 20,
+    "name": "Le Requin",
+    "number": "20",
+    "description": "Il flotte sans un frisson. Mais l’eau autour de lui s’assombrit.",
+  "interpretation": "Tu choisis de ne plus avancer, de rester immobile dans ce qui t’entoure. Cette carte parle de déni glacé, de paix factice, d’un refus de te confronter à tes propres instincts. Pourtant, ce que tu ignores se gorge de sang et finit par empoisonner l’eau. Tu peux flotter longtemps… mais jamais éternellement."
+  },
+{
+  "id": 21,
+  "name": "Le Griffon",
+  "number": "21",
+  "description": "Il veille au sommet, ses ailes tremblantes comme un mauvais présage.",
+  "interpretation": "Tu te penses noble, au-dessus de la mêlée. Mais cette carte parle de transformations inquiétantes, de fiertés corrompues, de grandeur bâtie sur des fondations déformées. Tu n’es plus certain d’être un aigle ou un lion, ni si l’un des deux domine. Et à force de prétendre, tu risques de ne plus savoir qui tu es vraiment."
+},
+
+  {
+    "id": 22,
+    "name": "Le Colibri Vorace",
+    "number": "As",
+    "description": "Ses battements d’ailes cachent une faim minuscule mais mortelle.",
+    "interpretation": "Tu sembles léger, rapide, presque invisible. Mais cette carte parle d’insatiabilité cachée derrière l’élégance. Même les plus petits peuvent épuiser ce qu’ils aiment.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 23,
+    "name": "Le Cygne Miroir",
+    "number": "2",
+    "description": "Il glisse sur l’eau… et dissimule ce qu’il a noyé.",
+    "interpretation": "Tu veux refléter la beauté, l’harmonie. Mais cette carte parle de façade trompeuse, d’élégance froide, de violence engloutie. On ne sait jamais ce que cache un silence parfait.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 24,
+    "name": "Le Perroquet Éventreur",
+    "number": "3",
+    "description": "Il répète ce qu’il a entendu… et ce qu’il a arraché.",
+    "interpretation": "Tu joues avec les mots, tu imites, tu séduis. Mais cette carte parle d’un langage qui blesse, d’une mémoire déformée, d’un masque sonore. Tu sais ce que tu fais… et ce que ça tranche.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 25,
+    "name": "La Chauve-Souris Suturée",
+    "number": "4",
+    "description": "Elle vole la nuit, rafistolée d’ailes qui ne sont pas les siennes.",
+    "interpretation": "Tu veux t’en sortir, t’élever, coûte que coûte. Mais cette carte parle de reconstruction forcée, de mutations maladroites, de compromis qui laissent des coutures. À trop recoller, tu deviens un collage.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 26,
+    "name": "Le Rossignol Muet",
+    "number": "5",
+    "description": "Il chante dans ta tête, car sa gorge est vide.",
+    "interpretation": "Tu veux inspirer, toucher, émouvoir. Mais cette carte parle de sacrifice de soi, d’une voix qu’on t’a volée ou que tu as offerte. On te croit lumineux. Tu as payé pour ça.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 27,
+    "name": "La Libellule Fendue",
+    "number": "6",
+    "description": "Ses ailes tremblent encore. Ce n’est pas les siennes.",
+    "interpretation": "Tu veux aller vite, passer entre les mailles. Mais cette carte parle de fragilité maquillée, de brillance de surface. Tu avances… sur les restes de quelqu’un d’autre.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 28,
+    "name": "Le Hibou Fossile",
+    "number": "7",
+    "description": "Il voit tout. Même ce qui est déjà mort.",
+    "interpretation": "Tu as la sagesse, le recul, l’expérience. Mais cette carte parle d’immobilité pétrifiée, de savoirs morts, de regards qui ne clignent plus. Tu sais trop. Et tu ne bouges plus.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 29,
+    "name": "Le Faucon Désarçonné",
+    "number": "8",
+    "description": "Il fond du ciel. Mais c’est un piège qu’il ne maîtrise plus.",
+    "interpretation": "Tu veux prendre de la hauteur, dominer, fondre avec précision. Mais cette carte parle d’excès, de perte de contrôle, de vitesse qui consume. Tu veux frapper… mais tu risques de t’écraser.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 30,
+    "name": "Le Canari Étouffé",
+    "number": "9",
+    "description": "Il ne chante plus. Il attend, les plumes collées au silence.",
+    "interpretation": "Tu étais l’annonce, l’éclat, l’alerte. Mais cette carte parle d’une voix brisée, d’un cri qu’on n’a pas écouté, d’une vérité étouffée. Tu es vivant… mais on ne t’entend plus.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 31,
+    "name": "Le Loriot Délavé",
+    "number": "10",
+    "description": "Ses couleurs fuient. Et avec elles, ce qu’il a fait disparaître.",
+    "interpretation": "Tu veux briller, attirer, séduire. Mais cette carte parle de déclin subtil, d’apparences fanées, de beauté qui masque l’effacement. Tu n’es peut-être plus aussi inoffensif qu’on croit. Juste… effacé.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 32,
+    "name": "La Mésange Bifide",
+    "number": "11",
+    "description": "Deux ailes, deux têtes… et trop de voix pour une si petite cage thoracique.",
+    "interpretation": "Tu veux faire deux choses à la fois, vivre deux vies, dire deux vérités. Cette carte parle de tiraillement, de dissonance, de duplicité involontaire. Il faut choisir avant que tout craque.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 33,
+    "name": "Le Héron Transperceur",
+    "number": "12",
+    "description": "Son bec n’est plus outil, mais verdict.",
+    "interpretation": "Tu attends ton moment. Calme, droit, silencieux. Mais cette carte parle de justice instinctive, de jugement qui tombe sans appel. Tu n’es pas cruel. Tu es l’arme qu’on n’a pas vue venir.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 34,
+    "name": "La Cigogne Viscérale",
+    "number": "13",
+    "description": "Elle apporte des paquets. Certains encore chauds.",
+    "interpretation": "Tu veux croire aux belles histoires. Aux débuts neufs. Mais cette carte parle de faux miracles, de gestes mécaniques, de cycles biaisés. Tout ce que tu portes n’est pas toujours bon à livrer.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 35,
+    "name": "Le Moineau Déplumé",
+    "number": "14",
+    "description": "Il tremble sur la branche. Mais ce n’est pas de froid.",
+    "interpretation": "Tu te crois faible, vulnérable, exposé. Mais cette carte parle de résilience crue, de peau à vif, d’un instinct qui refuse de mourir. Tu n’es pas fragile. Tu es simplement sans bouclier. Et encore vivant.",
+    "element": "Air",
+    "color": "Brume"
+  },
+  {
+    "id": 36,
+    "name": "Le Lion Rugitif",
+    "number": "As",
+    "description": "Sa crinière fume encore. Il a quitté la scène en hurlant.",
+    "interpretation": "Tu veux être vu, entendu, respecté. Mais cette carte parle de puissance blessée, d’orgueil brûlé, de fuite en avant. Tu rugis peut-être… mais tu saignes aussi.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 37,
+    "name": "Le Serpent Dépouillé",
+    "number": "2",
+    "description": "Sa mue n’est pas vide. Elle crie encore.",
+    "interpretation": "Tu changes. Tu laisses derrière. Mais cette carte parle de transformation forcée, de douleur collée à la peau, de mémoire qui colle aux écailles. Tu avances… mais rien n’est oublié.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 38,
+    "name": "Le Scorpion Horloger",
+    "number": "3",
+    "description": "Il attend que l’aiguille pique.",
+    "interpretation": "Tu es méthodique, précis, patient. Mais cette carte parle de vengeance froide, de planification vénéneuse, d’attente mortelle. Tu as déjà choisi qui piquer. Tu attends juste le moment exact.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 39,
+    "name": "La Mangouste Enthousiaste",
+    "number": "4",
+    "description": "Elle court partout. Et laisse du sang là où elle passe.",
+    "interpretation": "Tu veux vivre, bondir, goûter à tout. Mais cette carte parle d’agitation destructrice, d’instincts brûlants, de gestes qui blessent sans y penser. Tu veux bien faire. Tu fais mal quand même.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 40,
+    "name": "Le Lézard Cicatrisé",
+    "number": "5",
+    "description": "Il a repoussé sa queue… mais elle n’est plus la sienne.",
+    "interpretation": "Tu reconstruis, tu fais avec. Mais cette carte parle de récupération tordue, de blessures masquées, de membres fantômes. Ce que tu as perdu ne revient jamais vraiment intact.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 41,
+    "name": "Le Tigre Saignant",
+    "number": "6",
+    "description": "Il avance, même avec les tripes dehors.",
+    "interpretation": "Tu refuses d’abandonner. Mais cette carte parle de fureur vivante, de lutte en décomposition, de force qui s’épuise. Tu es beau. Et tu es en train de mourir debout.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 42,
+    "name": "Le Fennec Tisonnier",
+    "number": "7",
+    "description": "Il fouille les cendres. Il y met les dents.",
+    "interpretation": "Tu cherches la vérité, le secret, la braise encore chaude. Mais cette carte parle de curiosité malsaine, de déterrage dangereux, d’obsession. Tu vas finir par réveiller ce qui ne voulait plus brûler.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 43,
+    "name": "Le Caracal Clouté",
+    "number": "8",
+    "description": "Ses oreilles frémissent. Ses pattes sont bandées d’épines.",
+    "interpretation": "Tu avances avec grâce, rapidité, style. Mais cette carte parle de douleur sous contrôle, de beauté martiale, de souffrance camouflée. Tu fais mal à ceux qui regardent — sans bouger.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 44,
+    "name": "La Panthère Dissolvante",
+    "number": "9",
+    "description": "Elle se fond dans l’ombre. Ce qui la touche fond avec elle.",
+    "interpretation": "Tu disparais, tu deviens silence, tu fais de l’ombre ton arme. Mais cette carte parle de destruction invisible, de proximité toxique, d’absorption totale. Ce que tu touches se perd en toi.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 45,
+    "name": "L’Aigle Exécutant",
+    "number": "10",
+    "description": "Il plane, puis tranche. Sans haine.",
+    "interpretation": "Tu vis haut, tu décides de loin. Mais cette carte parle de justice froide, d’instinct d’élimination, de supériorité naturelle. Ce que tu vois, tu frappes. Sans émotion. Et sans appel.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 46,
+    "name": "La Hyène Carnavalesque",
+    "number": "11",
+    "description": "Elle rit. Et on ne sait plus si c’est drôle.",
+    "interpretation": "Tu déranges, tu bouscules, tu exposes ce qu’on cache. Mais cette carte parle de cruauté joyeuse, de provocation dangereuse, de rires qui cachent les crocs. Ce que tu dévoiles fait peur.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 47,
+    "name": "Le Chacal Retors",
+    "number": "12",
+    "description": "Il rôde sans faim. Il attend que tu tombes.",
+    "interpretation": "Tu n’as pas besoin de frapper. Tu attends l’erreur. Cette carte parle d’opportunisme létal, de stratégie basse, de prédateurs patients. Tu sais que tout finit par se casser.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 48,
+    "name": "Le Renard Inflammé",
+    "number": "13",
+    "description": "Son pelage luit. Il sent la cendre chaude.",
+    "interpretation": "Tu fascines, tu danses, tu séduis. Mais cette carte parle de manipulation brûlante, de jeu risqué, de charme incendiaire. Tu allumes… mais tu ne contrôles rien après.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 49,
+    "name": "Le Guépard Brûlé",
+    "number": "14",
+    "description": "Il court encore. Ses pattes fument.",
+    "interpretation": "Tu vas vite, tu veux gagner, tu refuses l’arrêt. Mais cette carte parle d’épuisement caché, de course qui consume, de victoire qui coûte trop cher. Tu avances vite… vers ta propre combustion.",
+    "element": "Feu",
+    "color": "Braise"
+  },
+  {
+    "id": 50,
+    "name": "Le Dauphin Disloqué",
+    "number": "As",
+    "description": "Son rire résonne. Mais ce n’est pas lui qui l’émet.",
+    "interpretation": "Tu veux faire croire au jeu, à l’intelligence, à la joie. Mais cette carte parle de duplicité cruelle, de cruauté mimée, d’un instinct joueur qui blesse en riant. L’abîme sourit parfois.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 51,
+    "name": "L’Hippocampe Dérivant",
+    "number": "2",
+    "description": "Il flotte sans bruit, accroché à ce qu’il reste.",
+    "interpretation": "Tu veux rester en place, maintenir ce que tu peux. Mais cette carte parle de dérive émotionnelle, d’attachement à ce qui coule, d’une volonté douce qui s’épuise. Tu ne tiens plus que des morceaux.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 52,
+    "name": "Le Pingouin Affamé",
+    "number": "3",
+    "description": "Il glisse sur la glace, mais ses traces rougissent.",
+    "interpretation": "Tu veux nourrir, protéger, survivre. Mais cette carte parle de faim ancienne, d’appétits qu’on cache sous l’amour, d’un besoin vital qui ronge. Tu donnerais tout… ou tu prendrais tout.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 53,
+    "name": "Le Poisson-Clown Masqué",
+    "number": "4",
+    "description": "Ses couleurs crient. Lui, non.",
+    "interpretation": "Tu veux être remarqué, adoré, unique. Mais cette carte parle d’un masque trop serré, d’une image figée, d’un rire forcé. Tu ne peux plus respirer dans ce rôle qu’on aime trop te voir jouer.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 54,
+    "name": "La Méduse Maternelle",
+    "number": "5",
+    "description": "Ses bras sont doux. Trop nombreux pour être honnêtes.",
+    "interpretation": "Tu veux envelopper, consoler, bercer. Mais cette carte parle d’emprise douce, de caresses collantes, d’un amour qui étouffe. Tout ce que tu tiens… tu ne le rends pas.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 55,
+    "name": "Le Phoque Fracturé",
+    "number": "6",
+    "description": "Il roule sur lui-même, mais sa nageoire pend.",
+    "interpretation": "Tu veux qu’on t’aime, qu’on te voie comme fragile et doux. Mais cette carte parle de cassure visible, de blessure qu’on promène en silence. Ce n’est pas grave, dis-tu. Mais tu boites dans l’eau.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 56,
+    "name": "Le Castor Englué",
+    "number": "7",
+    "description": "Il construit. Même quand le bois saigne.",
+    "interpretation": "Tu veux bâtir, réparer, améliorer. Mais cette carte parle d’acharnement aveugle, d’œuvre souillée, de volonté qui salit en voulant bien faire. Ce que tu fais tient debout… mais à quel prix ?",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 57,
+    "name": "Le Poisson-Globe Lacéré",
+    "number": "8",
+    "description": "Il se gonfle pour survivre. Et perce les autres au passage.",
+    "interpretation": "Tu veux te défendre, prendre de la place, impressionner. Mais cette carte parle d’un réflexe incontrôlé, de violence défensive, de blessures que tu infliges sans viser. Tu piques, même quand tu n’en as pas envie.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 58,
+    "name": "La Tortue Dissimulée",
+    "number": "9",
+    "description": "Elle rentre sa tête, mais le sang coule à l’intérieur.",
+    "interpretation": "Tu veux te protéger, attendre que ça passe. Mais cette carte parle de repli dangereux, d’isolement nocif, de pourriture lente sous la carapace. Ce que tu caches… pourrit aussi avec toi.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+{
+  "id": 11,
+  "name": "La Grenouille Écorchée",
+  "number": "11",
+  "description": "Elle chante sous la pluie, la peau de sa proie collée au dos.",
+  "interpretation": "Tu t’adaptes. Tu changes de peau, de ton, de forme. Mais à force de mimer, tu oublies qui tu es. Cette carte parle de camouflage toxique, d’identité floue, et d’ambitions qui glissent. Jusqu’où es-tu prêt à t’étirer pour qu’on te croit ?"
+ "element": "Eau",
+    "color": "Abîme"}
+
+  {
+    "id": 60,
+    "name": "La Raie Paralyseuse",
+    "number": "11",
+    "description": "Elle glisse doucement. Mais ce qu’elle touche ne remue plus.",
+    "interpretation": "Tu agis en douceur, sans mot, sans geste brusque. Mais cette carte parle d’influence étouffante, d’effet lent et profond, de domination subie. Tu ne cries pas. Tu neutralises.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 61,
+    "name": "La Seiche Caméléone",
+    "number": "12",
+    "description": "Elle imite tout, même la peur. Même le sang.",
+    "interpretation": "Tu veux t’adapter, te fondre, passer inaperçu. Mais cette carte parle de perte d’identité, de dissimulation toxique, de violence mimée jusqu’à ne plus savoir ce qui est vrai. Tu copies tout… même le carnage.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 62,
+    "name": "Le Crocodile Embusqué",
+    "number": "13",
+    "description": "On le croit endormi. Il rêve de rupture.",
+    "interpretation": "Tu attends, tu laisses venir. Mais cette carte parle de tension prête à jaillir, de calcul sanglant, de patience meurtrière. Tu ne bouges pas… jusqu’à ce que tout cède.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 63,
+    "name": "Le Canard Boucher",
+    "number": "14",
+    "description": "Il boite en piaillant. Et découpe quand tu ne regardes pas.",
+    "interpretation": "Tu sembles risible, inoffensif, maladroit. Mais cette carte parle de camouflage grotesque, de rage déguisée en ridicule, d’un couteau caché sous les plumes. Tu veux qu’on te sous-estime. Tu sais pourquoi.",
+    "element": "Eau",
+    "color": "Abîme"
+  },
+  {
+    "id": 64,
+    "name": "La Taupe Aveugle",
+    "number": "As",
+    "description": "Elle creuse sans voir. Et déterre des choses qu’elle ne voulait pas.",
+    "interpretation": "Tu avances à l’instinct, tu veux t’abriter. Mais cette carte parle d’exploration inconsciente, de blessures révélées sans le vouloir, de vérités exhumées trop tôt. Tu ne savais pas. Mais maintenant, tu sais.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 65,
+    "name": "Le Tamanoir Intestinal",
+    "number": "2",
+    "description": "Il aspire tout. Même ce qui remue encore.",
+    "interpretation": "Tu nettoies, tu régules, tu veux de l’ordre. Mais cette carte parle d’absorption excessive, de consommation aveugle, de digestion de l’autre. Tu ne veux pas faire mal. Mais tu vides tout ce que tu touches.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 66,
+    "name": "Le Mouton Dissident",
+    "number": "3",
+    "description": "Il ne suit plus le troupeau. Il le piétine.",
+    "interpretation": "Tu semblais docile. Tu faisais comme tout le monde. Mais cette carte parle de révolte feutrée, de soumission retournée, de douceur qui craque. Tu n’es pas gentil. Tu es resté calme trop longtemps.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 67,
+    "name": "Le Porc-épic Chirurgical",
+    "number": "4",
+    "description": "Ses piquants visent juste. Trop juste.",
+    "interpretation": "Tu veux te défendre, te tenir à distance. Mais cette carte parle de précision cruelle, de rejet actif, de douleurs qu’on plante avec méthode. Tu ne veux pas qu’on t’approche. Et tu sais comment le faire comprendre.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 68,
+    "name": "Le Bison Fendu",
+    "number": "5",
+    "description": "Il marche droit. Son flanc est ouvert.",
+    "interpretation": "Tu tiens bon, tu portes, tu avances. Mais cette carte parle de résistance blessée, de force silencieuse, de corps usés par le devoir. Tu continues. Même quand tu devrais tomber.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 69,
+    "name": "Le Blaireau Ossuaire",
+    "number": "6",
+    "description": "Il fouille dans les os comme dans des feuilles mortes.",
+    "interpretation": "Tu cherches, tu creuses, tu veux comprendre. Mais cette carte parle d’obsession morbide, de savoirs morts, de trésors souillés. Ce que tu exhumes ne brillera plus jamais.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 70,
+    "name": "Le Dromadaire Tuméfié",
+    "number": "7",
+    "description": "Il porte tout. Même ce qu’on lui a planté dans le dos.",
+    "interpretation": "Tu encaisses, tu stockes, tu avances. Mais cette carte parle de fardeaux injustes, de résilience pervertie, de douleurs intégrées. Tu continues, oui. Mais tu saignes sous la bosse.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 71,
+    "name": "Le Fourmilier Obstrué",
+    "number": "8",
+    "description": "Sa langue est engorgée. Ce qu’il mange se débat encore.",
+    "interpretation": "Tu veux nettoyer, t’occuper des détails. Mais cette carte parle d’absorption excessive, d’invasion intérieure, de trop-plein caché. Tu avales plus que tu ne crois.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 72,
+    "name": "Le Cochon d’Inde Compressé",
+    "number": "9",
+    "description": "Il est trop rond. Trop silencieux. Il garde tout pour lui.",
+    "interpretation": "Tu veux rassurer, être aimé, être petit et paisible. Mais cette carte parle d’étouffement intérieur, de surcharge émotionnelle, d’éclatement proche. Quelque chose en toi ne tient plus.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 73,
+    "name": "La Vache Dissociée",
+    "number": "10",
+    "description": "Elle mâche lentement. Mais ce n’est pas de l’herbe.",
+    "interpretation": "Tu veux nourrir, produire, être utile. Mais cette carte parle d’oubli de soi, de routine perverse, de violence intériorisée. Tu fais ce qu’on attend de toi. Même quand c’est ignoble.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 74,
+    "name": "Le Lama Spasmodique",
+    "number": "11",
+    "description": "Il recrache. Mais ce n’est pas de la colère.",
+    "interpretation": "Tu veux garder le contrôle. Mais cette carte parle de rejet nerveux, de pulsions mal contenues, d’émotions ravalées jusqu’à l’explosion. Ce n’est pas un accident. C’est une fuite programmée.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 75,
+    "name": "Le Hamster Cannibale",
+    "number": "12",
+    "description": "Il mange dans le noir. Et personne ne l’a vu faire.",
+    "interpretation": "Tu veux être discret, indépendant, tranquille. Mais cette carte parle de solitude dangereuse, de besoins refoulés, de transgressions nocturnes. Ce que tu caches ne dort pas.",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 76,
+    "name": "Le Coq Mutilé",
+    "number": "13",
+    "description": "Il chante encore. Mais plus avec sa voix.",
+    "interpretation": "Tu veux dominer, annoncer, exister. Mais cette carte parle d’autorité blessée, de pouvoir volé, de symbole vidé. Tu cries, oui… mais est-ce encore toi ?",
+    "element": "Terre",
+    "color": "Ronce"
+  },
+  {
+    "id": 77,
+    "name": "L’Araignée Pèlerine",
+    "number": "14",
+    "description": "Elle transporte ses morts dans son fil.",
+    "interpretation": "Tu veux relier, construire, tenir ensemble. Mais cette carte parle de mémoire poisseuse, de liens toxiques, de deuils déplacés. Ce que tu tisses n’est pas tout à fait vivant.",
+    "element": "Terre",
+    "color": "Ronce"
+  }
+]

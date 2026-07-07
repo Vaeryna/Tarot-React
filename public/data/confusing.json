@@ -1,0 +1,464 @@
+{
+  "majeures": [
+    {
+      "id": 0,
+      "name": "La Chaise du Mercredi",
+      "number": 0,
+      "description": "La Chaise du Mercredi apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. La Chaise du Mercredi apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 1,
+      "name": "Le Couteau en Mousse",
+      "number": 1,
+      "description": "Le Couteau en Mousse apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Couteau en Mousse apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 2,
+      "name": "Le Sombrero Inutile",
+      "number": 2,
+      "description": "Le Sombrero Inutile apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Sombrero Inutile apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 3,
+      "name": "L'Ascenseur Horizontal",
+      "number": 3,
+      "description": "L'Ascenseur Horizontal apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. L'Ascenseur Horizontal apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 4,
+      "name": "Le Crayon Vivant",
+      "number": 4,
+      "description": "Le Crayon Vivant apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Crayon Vivant apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 5,
+      "name": "La Piscine Sans Eau",
+      "number": 5,
+      "description": "La Piscine Sans Eau apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. La Piscine Sans Eau apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 6,
+      "name": "Le Dragon Bureaucrate",
+      "number": 6,
+      "description": "Le Dragon Bureaucrate apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Dragon Bureaucrate apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 7,
+      "name": "Le Couscous Temporel",
+      "number": 7,
+      "description": "Le Couscous Temporel apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Couscous Temporel apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 8,
+      "name": "La Vache Intermittente",
+      "number": 8,
+      "description": "La Vache Intermittente apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. La Vache Intermittente apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 9,
+      "name": "Le Rideau de Lave",
+      "number": 9,
+      "description": "Le Rideau de Lave apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Rideau de Lave apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 10,
+      "name": "Le Trampoline Fixe",
+      "number": 10,
+      "description": "Le Trampoline Fixe apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Trampoline Fixe apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 11,
+      "name": "L'Étagère Vivante",
+      "number": 11,
+      "description": "L'Étagère Vivante apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. L'Étagère Vivante apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 12,
+      "name": "Le Poisson Sec",
+      "number": 12,
+      "description": "Le Poisson Sec apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Poisson Sec apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 13,
+      "name": "Le Satellite Emotionnel",
+      "number": 13,
+      "description": "Le Satellite Emotionnel apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Satellite Emotionnel apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 14,
+      "name": "Le Cornichon du Jugement",
+      "number": 14,
+      "description": "Le Cornichon du Jugement apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Cornichon du Jugement apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 15,
+      "name": "La Valise qui Respire",
+      "number": 15,
+      "description": "La Valise qui Respire apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. La Valise qui Respire apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 16,
+      "name": "Le Thermomètre à Oreilles",
+      "number": 16,
+      "description": "Le Thermomètre à Oreilles apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Thermomètre à Oreilles apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 17,
+      "name": "Le Feu Mouillé",
+      "number": 17,
+      "description": "Le Feu Mouillé apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Feu Mouillé apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 18,
+      "name": "La Télécommande Perdue",
+      "number": 18,
+      "description": "La Télécommande Perdue apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. La Télécommande Perdue apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 19,
+      "name": "Le Nuage qui Gratte",
+      "number": 19,
+      "description": "Le Nuage qui Gratte apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Nuage qui Gratte apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 20,
+      "name": "Le Sifflet Muet",
+      "number": 20,
+      "description": "Le Sifflet Muet apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. Le Sifflet Muet apparaît, et tu deviens lentement un oiseau sans direction."
+    },
+    {
+      "id": 21,
+      "name": "La Tasse qui Hurle",
+      "number": 21,
+      "description": "La Tasse qui Hurle apparaît dans un décor onirique, tordu, où le réel fond doucement dans le bizarre.",
+      "interpretation": "Les choses n’ont pas de sens. La Tasse qui Hurle apparaît, et tu deviens lentement un oiseau sans direction."
+    }
+  ],
+  "mineurs": [
+    {
+      "color": "Brumes Cognitives",
+      "element": "Air",
+      "cartes": [
+        {
+          "id": 22,
+          "name": "As - Le Journal qui s’écrit seul",
+          "description": "La pensée t’échappe, mais elle insiste."
+        },
+        {
+          "id": 23,
+          "name": "2 - Les Miroirs en Désaccord",
+          "description": "Deux vérités s’affrontent, toutes floues."
+        },
+        {
+          "id": 24,
+          "name": "3 - La Carte Sans Territoire",
+          "description": "Tu explores l’inexistant avec méthode."
+        },
+        {
+          "id": 25,
+          "name": "4 - Le Livre en Colimaçon",
+          "description": "Le savoir tourne sans fin."
+        },
+        {
+          "id": 26,
+          "name": "5 - L’Abécédaire Aléatoire",
+          "description": "Les mots te défient."
+        },
+        {
+          "id": 27,
+          "name": "6 - Le Théorème du Brouillard",
+          "description": "La logique s’évapore, mais reste là."
+        },
+        {
+          "id": 28,
+          "name": "7 - L’Horloge Hypnotique",
+          "description": "Tu penses en boucle, doucement."
+        },
+        {
+          "id": 29,
+          "name": "8 - Les Idées à Rebrousse-poil",
+          "description": "Chaque réflexion heurte un mur doux."
+        },
+        {
+          "id": 30,
+          "name": "9 - Le Cerveau en Élastique",
+          "description": "La pensée s’étire, mais ne revient pas."
+        },
+        {
+          "id": 31,
+          "name": "10 - La Lettre Non Postée",
+          "description": "La conclusion reste introuvable."
+        },
+        {
+          "id": 32,
+          "name": "Valet - Le Post-it Flottant",
+          "description": "Messages mentaux légers mais insistants."
+        },
+        {
+          "id": 33,
+          "name": "Cavalier - Le Crayon qui s’égare",
+          "description": "Galop mental sans destination."
+        },
+        {
+          "id": 34,
+          "name": "Reine - La Spirale Pensante",
+          "description": "Maîtrise l’errance cérébrale."
+        },
+        {
+          "id": 35,
+          "name": "Roi - Le Maître des Paradoxes",
+          "description": "Souverain d’un royaume logique… et absurde."
+        }
+      ]
+    },
+    {
+      "color": "Mouvements Incongrus",
+      "element": "Feu",
+      "cartes": [
+        {
+          "id": 36,
+          "name": "As - Le Saut sans Sol",
+          "description": "Impulsion sans point d’appui."
+        },
+        {
+          "id": 37,
+          "name": "2 - Les Pas Contradictoires",
+          "description": "Avancer et reculer en même temps."
+        },
+        {
+          "id": 38,
+          "name": "3 - Le Boomerang Fatigué",
+          "description": "Tu lances, il revient… lentement."
+        },
+        {
+          "id": 39,
+          "name": "4 - Le Parapente de Salon",
+          "description": "Une tentative d’élévation dans le mauvais décor."
+        },
+        {
+          "id": 40,
+          "name": "5 - Les Gants Inversés",
+          "description": "Tu agis, mais tout à l’envers."
+        },
+        {
+          "id": 41,
+          "name": "6 - La Toupie Carrée",
+          "description": "Mouvement mal adapté mais obstiné."
+        },
+        {
+          "id": 42,
+          "name": "7 - L’Élan Réticent",
+          "description": "L’énergie refuse d’obéir."
+        },
+        {
+          "id": 43,
+          "name": "8 - Le Saut en Biais",
+          "description": "Tu avances, mais de travers."
+        },
+        {
+          "id": 44,
+          "name": "9 - Le Marteau Flottant",
+          "description": "Force suspendue, action improbable."
+        },
+        {
+          "id": 45,
+          "name": "10 - L’Échelle sans Mur",
+          "description": "Monter n’a jamais été aussi inutile."
+        },
+        {
+          "id": 46,
+          "name": "Valet - Le Patineur sur Cactus",
+          "description": "Agit avec grâce dans l’inconfort."
+        },
+        {
+          "id": 47,
+          "name": "Cavalier - Le Lanceur d’Éponges",
+          "description": "Batailles absurdes, mais énergiques."
+        },
+        {
+          "id": 48,
+          "name": "Reine - La Tisseuse de Détours",
+          "description": "Dirige l’action par l’errance."
+        },
+        {
+          "id": 49,
+          "name": "Roi - Le Conducteur de Nulle Part",
+          "description": "Guide l’effort vers l’absolument flou."
+        }
+      ]
+    },
+    {
+      "color": "Résonances Inattendues",
+      "element": "Eau",
+      "cartes": [
+        {
+          "id": 50,
+          "name": "As - La Larme qui remonte",
+          "description": "Émotion à contresens."
+        },
+        {
+          "id": 51,
+          "name": "2 - Les Soupirs Croisés",
+          "description": "Deux cœurs désynchronisés."
+        },
+        {
+          "id": 52,
+          "name": "3 - La Pluie qui Rit",
+          "description": "Tristesse étrange, douce et moqueuse."
+        },
+        {
+          "id": 53,
+          "name": "4 - Le Soupirail d’Âme",
+          "description": "Tu regardes dehors depuis tes ressentis."
+        },
+        {
+          "id": 54,
+          "name": "5 - Le Poème en Morceaux",
+          "description": "Tu ressens en fragments."
+        },
+        {
+          "id": 55,
+          "name": "6 - La Vague Ronde",
+          "description": "Sensibilité imprévisible mais cyclique."
+        },
+        {
+          "id": 56,
+          "name": "7 - Les Pleurs Colorés",
+          "description": "Mélange d’émotions éclatées."
+        },
+        {
+          "id": 57,
+          "name": "8 - Le Murmure Égaré",
+          "description": "Un ressenti sans origine."
+        },
+        {
+          "id": 58,
+          "name": "9 - La Mémoire Dissonante",
+          "description": "Souvenirs flous, émotions nettes."
+        },
+        {
+          "id": 59,
+          "name": "10 - Le Silence Mouillé",
+          "description": "Tout est dit sans mot."
+        },
+        {
+          "id": 60,
+          "name": "Valet - Le Rêveur de Poche",
+          "description": "Porte l’émotion comme un talisman."
+        },
+        {
+          "id": 61,
+          "name": "Cavalier - Le Nageur Astral",
+          "description": "Traverse des courants affectifs étranges."
+        },
+        {
+          "id": 62,
+          "name": "Reine - La Danseuse des Marées",
+          "description": "Orchestre les vagues émotives."
+        },
+        {
+          "id": 63,
+          "name": "Roi - Le Roi Transparent",
+          "description": "Émotion nue, dirigée sans armure."
+        }
+      ]
+    },
+    {
+      "color": "Objets Sans Fonction",
+      "element": "Terre",
+      "cartes": [
+        {
+          "id": 64,
+          "name": "As - Le Caillou Souple",
+          "description": "Ce qui est stable… ne l’est pas."
+        },
+        {
+          "id": 65,
+          "name": "2 - Les Escaliers à Plat",
+          "description": "Ascension immobile."
+        },
+        {
+          "id": 66,
+          "name": "3 - Le Frigo Chaud",
+          "description": "Confort matériel déconcertant."
+        },
+        {
+          "id": 67,
+          "name": "4 - La Clé des Nuages",
+          "description": "Tu ouvres ce qui ne se ferme pas."
+        },
+        {
+          "id": 68,
+          "name": "5 - Le Tapis dans l’Arbre",
+          "description": "Ce qui est au sol prend de la hauteur."
+        },
+        {
+          "id": 69,
+          "name": "6 - Le Mur Traversable",
+          "description": "Tu butes sur ce qui ne bloque pas."
+        },
+        {
+          "id": 70,
+          "name": "7 - Le Plancher Inquiet",
+          "description": "Le sol tremble de lui-même."
+        },
+        {
+          "id": 71,
+          "name": "8 - La Brique Sans Masse",
+          "description": "Tu construis avec du vide solide."
+        },
+        {
+          "id": 72,
+          "name": "9 - La Lampe qui Pleure",
+          "description": "Lumière fragile, presque sensible."
+        },
+        {
+          "id": 73,
+          "name": "10 - La Prise Débranchée Connectée",
+          "description": "L’illusion d’un ancrage."
+        },
+        {
+          "id": 74,
+          "name": "Valet - Le Carton Organelle",
+          "description": "Porte la matière vivante d’un autre monde."
+        },
+        {
+          "id": 75,
+          "name": "Cavalier - Le Casque Sans Son",
+          "description": "Agit dans un monde tangible mais muet."
+        },
+        {
+          "id": 76,
+          "name": "Reine - La Meubleuse",
+          "description": "Construit du réel par collage d’idées."
+        },
+        {
+          "id": 77,
+          "name": "Roi - Le Sculpteur d’Impossible",
+          "description": "Maîtrise la matière improbable."
+        }
+      ]
+    }
+  ]
+}

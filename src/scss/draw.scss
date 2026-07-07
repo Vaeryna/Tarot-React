@@ -1,0 +1,85 @@
+@mixin flex-card($direction) {
+  display: flex;
+  flex-wrap: wrap;
+  background: none;
+  border: none;
+  align-items: center;
+  justify-content: space-around;
+  align-self: baseline;
+  flex-direction: $direction;
+}
+
+body {
+  background-image: url("../../public/assets/bg-4k-2-3.png");
+  margin: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000000;
+  font-size: 150%;
+  font-family: "black-chancery", fantasy;
+}
+
+.btn-group {
+  @include flex-card(row);
+
+  img {
+    display: block;
+    max-height: 100%;
+    max-width: 100%;
+  }
+
+  button {
+    margin: 1vh;
+    max-width: 15vh;
+  }
+}
+
+button {
+  background: none;
+  border: none;
+}
+
+.card {
+  @include flex-card(column);
+}
+
+
+.card-img {
+  max-width: 30vh;
+  //max-width: 20vh;
+  height: auto;
+}
+
+
+#title {
+  color: #151515;
+}
+
+.draw-result {
+  max-width: 100vw;
+  width: 100%;
+  //align-self: baseline;
+
+  .card-group {
+    @include flex-card(column);
+
+    .cards-images{
+      @include flex-card(row);
+      align-self: center;
+    }
+
+    .card {
+      margin: 1vh;
+    }
+  }
+
+  .interpretation{
+    margin: 2vh;
+  }
+  .retryButton {
+    display: inline-flex;
+    gap: 2vh
+  }
+}
+

@@ -1,0 +1,660 @@
+[
+  {
+    "id": 0,
+    "name": "Le Poireau Égaré",
+    "number": "0",
+    "description": "Le Poireau Égaré flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu es quelque part. Pas ici, mais pas ailleurs non plus. Tu cherches un sens dans un jardin abandonné à lui-même. On t’a peut-être planté là par erreur, mais tu pousses quand même."
+  },
+  {
+    "id": 1,
+    "name": "La Chaise Volante",
+    "number": "1",
+    "description": "La Chaise Volante flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu veux t’asseoir, mais tu prends de la hauteur. L’équilibre se moque de toi, et tu le mérites un peu. Tu avances en flottant, et personne ne sait si c’est majestueux ou tragique."
+  },
+  {
+    "id": 2,
+    "name": "L'Échelle Infinie",
+    "number": "2",
+    "description": "L'Échelle Infinie flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu grimpes vers ce qui ne finit jamais. Tu progresses, c’est certain, mais sans arriver nulle part. Félicitations : tu as atteint un nouveau palier de confusion."
+  },
+  {
+    "id": 3,
+    "name": "Le Miroir qui Tousse",
+    "number": "3",
+    "description": "Le Miroir qui Tousse flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu observes ton reflet et il tousse. Peut-être est-ce toi qui es malade d’être regardé. L’introspection te répond par un râle. Il serait sage de ne pas trop insister."
+  },
+  {
+    "id": 4,
+    "name": "La Baguette Sans Gluten",
+    "number": "4",
+    "description": "La Baguette Sans Gluten flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu cherches la magie dans des ingrédients absents. Tes sorts lèvent mal, mais avec conviction. Tu es peut-être intolérant(e) à la logique, et ça te réussit."
+  },
+  {
+    "id": 5,
+    "name": "Le Dindon Oracle",
+    "number": "5",
+    "description": "Le Dindon Oracle flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "On te prend pour un imbécile, mais tu parles avec des plumes prophétiques. Tes intuitions glougloutent de sagesse. Dommage qu’on n’ait pas les sous-titres."
+  },
+  {
+    "id": 6,
+    "name": "L'Ombre de Midi",
+    "number": "6",
+    "description": "L'Ombre de Midi flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu projettes une ombre là où il ne devrait pas y en avoir. Ton existence défie la lumière et les horaires. Tu es une anomalie temporelle, et c’est ton superpouvoir."
+  },
+  {
+    "id": 7,
+    "name": "Le Clown Triste",
+    "number": "7",
+    "description": "Le Clown Triste flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu fais rire malgré toi. Ou tu pleures à l’intérieur d’un sourire maquillé. Tu es une émotion déguisée, qui s’est perdue dans le placard à costumes."
+  },
+  {
+    "id": 8,
+    "name": "La Trompette Muette",
+    "number": "8",
+    "description": "La Trompette Muette flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu veux annoncer quelque chose, mais rien ne sort. Et pourtant, tout le monde écoute. Le silence est ton cri le plus puissant, même s’il siffle à peine."
+  },
+  {
+    "id": 9,
+    "name": "Le Vélo Carré",
+    "number": "9",
+    "description": "Le Vélo Carré flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu avances avec un inconfort assumé. Chaque tour de roue te rappelle que tu refuses les solutions faciles. Tu n’iras pas loin, mais tu le feras avec panache anguleux."
+  },
+  {
+    "id": 10,
+    "name": "La Montagne Plate",
+    "number": "10",
+    "description": "La Montagne Plate flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu as atteint le sommet… sans relief. La grandeur sans élévation est ton domaine. Tu es au sommet d’un monde qui a oublié comment faire des bosses."
+  },
+  {
+    "id": 11,
+    "name": "Le Fantôme Allergique",
+    "number": "11",
+    "description": "Le Fantôme Allergique flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu hantes des lieux qui te font éternuer. Tu es incompatible avec ton propre passé. Essaie de souffler sans t’évaporer"
+  },
+  {
+    "id": 12,
+    "name": "L'Araignée à Plumes",
+    "number": "12",
+    "description": "L'Araignée à Plumes flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu tisses des pièges doux comme des oreillers. Tu cherches à capturer sans effrayer. Ta stratégie est confuse, mais joliment décorée."
+  },
+  {
+    "id": 13,
+    "name": "Le Lama Astral",
+    "number": "13",
+    "description": "Le Lama Astral flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu voyages entre les plans avec une moue désabusée. Tu portes la sagesse cosmique dans un pelage légèrement sale. On ne sait pas si tu médites ou si tu boudes."
+  },
+  {
+    "id": 14,
+    "name": "La Porte Fermée Ouverte",
+    "number": "14",
+    "description": "La Porte Fermée Ouverte flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu refuses de choisir entre l’accès et la fuite. Tu es un paradoxe charnière. Ceux qui passent par toi finissent par ne plus savoir s’ils sont dedans ou dehors."
+  },
+  {
+    "id": 15,
+    "name": "Le Coussin Électrique",
+    "number": "15",
+    "description": "Le Coussin Électrique flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu veux reposer, mais tu surchauffes. Tu offres un confort qui picote. Ceux qui s’installent sur toi repartent éveillés, voire électrocutés."
+  },
+  {
+    "id": 16,
+    "name": "Le Chien Philosophique",
+    "number": "16",
+    "description": "Le Chien Philosophique flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu poses les bonnes questions, puis tu cours après ta propre queue pour éviter les réponses. Ta sagesse aboie, mais avec beaucoup de recul."
+  },
+  {
+    "id": 17,
+    "name": "La Poêle Mystique",
+    "number": "17",
+    "description": "La Poêle Mystique flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu reçois des messages dans l’huile chaude. Tes visions grésillent. La friture cosmique t’enseigne que tout est vrai, surtout les bruits suspects."
+  },
+  {
+    "id": 18,
+    "name": "L'Horloge Sans Temps",
+    "number": "18",
+    "description": "L'Horloge Sans Temps flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu existes hors du rythme commun. Les aiguilles se sont dissoutes, mais tu continues à faire “tic tac” dans le vide. Tu mesures l’inquantifiable."
+  },
+  {
+    "id": 19,
+    "name": "La Fourchette Unique",
+    "number": "19",
+    "description": "La Fourchette Unique flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu veux piquer dans le grand buffet du monde, mais tu n’as qu’une seule dent. Et pourtant, tu trouves toujours quelque chose à goûter."
+  },
+  {
+    "id": 20,
+    "name": "Le Pull Sentient",
+    "number": "20",
+    "description": "Le Pull Sentient flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu portes tes émotions, littéralement. Et elles te serrent un peu trop. Il est peut-être temps d’enlever cette couche qui te regarde."
+  },
+  {
+    "id": 21,
+    "name": "Le Silence qui Hurle",
+    "number": "21",
+    "description": "Le Silence qui Hurle flotte dans un monde illogique, avec des objets déplacés et des lois de la physique ignorées.",
+    "interpretation": "Tu crois que rien ne se passe, mais tout crie à l’intérieur. Ce vide est plein de hurlements pliés en origami. Tu l’entends si tu ne tends pas l’oreille."
+  },
+  {
+    "id": 22,
+    "name": "La Clé qui n’ouvre rien",
+    "number": "As",
+    "description": "Tu t’embarques dans une réflexion inutile, mais passionnée.",
+    "interpretation": "Tu t’acharnes à comprendre quelque chose qui ne s’ouvrira pas. Et si le verrou était imaginaire ?",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 23,
+    "name": "Les Ciseaux sans Lames",
+    "number": "2",
+    "description": "Deux idées qui ne coupent rien, mais se battent quand même.",
+    "interpretation": "Tu affrontes des conflits sans outils pour trancher. Pourtant, tu persistes, et c’est déjà un acte de courage.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 24,
+    "name": "Le Parapluie Poreux",
+    "number": "3",
+    "description": "Tes pensées protègent mal, mais au moins elles sont là.",
+    "interpretation": "Tu essayes de te protéger de tes propres pensées, mais elles passent au travers. L’essentiel, c’est que tu essaies.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 25,
+    "name": "Les Lunettes Inversées",
+    "number": "4",
+    "description": "Tu vois tout à l’envers, mais c’est cohérent pour toi.",
+    "interpretation": "Ta vision des choses semble décalée, mais elle t’offre un point de vue précieux. Continue à regarder autrement.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 26,
+    "name": "Le Crayon Baveur",
+    "number": "5",
+    "description": "Tu penses trop, et ça déborde.",
+    "interpretation": "Tu penses trop, ça déborde dans tous les sens. Laisse couler : même les pensées floues dessinent des chemins.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 27,
+    "name": "Les Dés Carrés",
+    "number": "6",
+    "description": "Le hasard s’est trompé de méthode.",
+    "interpretation": "Le hasard ne fonctionne plus comme prévu. Les choses tombent à plat, mais pas par malchance — juste par absurdité.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 28,
+    "name": "Le Rubik's Cube Monochrome",
+    "number": "7",
+    "description": "Complexité sans variation.",
+    "interpretation": "Tu cherches à résoudre quelque chose de complexe... qui ne changera jamais. Peut-être que la solution est d’arrêter de chercher.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 29,
+    "name": "La Montre du Futur Passé",
+    "number": "8",
+    "description": "Tu cogites dans des temporalités incertaines.",
+    "interpretation": "Tu cogites en boucle, entre regrets et projections. Ton esprit voyage dans un temps qui n'existe plus — ou pas encore.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 30,
+    "name": "Les Trombones Rebelles",
+    "number": "9",
+    "description": "Rien ne tient ensemble, mais ils s’accrochent quand même.",
+    "interpretation": "Tout semble se détacher autour de toi. Pourtant, des liens se recréent, chaotiques mais tenaces.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 31,
+    "name": "Le Casque qui Écoute",
+    "number": "10",
+    "description": "Tes idées t’écoutent parler. Et elles jugent.",
+    "interpretation": "Tu es à l’écoute de tes propres pensées, mais elles semblent t’observer en retour. Ce dialogue intérieur te construit en secret.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 32,
+    "name": "Le Porte-voix Muet",
+    "number": "Valet",
+    "description": "Porte les messages confus avec fierté.",
+    "interpretation": "Tu portes en toi un message confus, mais tu le transmets avec force. Le silence peut avoir plus d’écho que tu ne crois.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 33,
+    "name": "Le Mégaphone Tournoyant",
+    "number": "Cavalier",
+    "description": "Hurle ton nonsense en boucle.",
+    "interpretation": "Tu cries des choses sans queue ni tête, encore et encore. Et pourtant, dans ce chaos sonore, quelque chose cherche à se faire entendre.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 34,
+    "name": "La Machine à Douter",
+    "number": "Reine",
+    "description": "Génère des hypothèses absurdes avec grâce.",
+    "interpretation": "Tu remets tout en question, même tes propres doutes. Ton esprit génère des hypothèses absurdes, mais c’est là que naissent les révélations.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 35,
+    "name": "Le Penseur Transparent",
+    "number": "Roi",
+    "description": "Il pense fort, mais personne ne le voit.",
+    "interpretation": "Tu penses fort, mais personne ne le remarque. Ton influence est invisible, mais réelle — comme une idée dans l’air.",
+    "color": "Objets Détraqués",
+    "element": "Air"
+  },
+  {
+    "id": 36,
+    "name": "Le Pigeon à bulles",
+    "number": "As",
+    "description": "Un élan ridicule, mais pétillant.",
+    "interpretation": "Tu fonces dans la vie avec une énergie pétillante, mais inutile. Et c’est justement cette légèreté qui te rend unique.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 37,
+    "name": "Les Vers Jongleurs",
+    "number": "2",
+    "description": "Coordination sans cause.",
+    "interpretation": "Tu coordonnes des choses qui n’ont aucun sens. Ton habileté ne sert à rien — sauf à te prouver que tu en es capable.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 38,
+    "name": "La Chauve-souris Diurne",
+    "number": "3",
+    "description": "Agir à contre-temps avec conviction.",
+    "interpretation": "Tu agis à contretemps, mais avec détermination. Tu déranges, tu étonnes, mais tu affirmes ta place dans l’inconfort.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 39,
+    "name": "Les Moustiques Boxeurs",
+    "number": "4",
+    "description": "Petites actions, grands impacts énervants.",
+    "interpretation": "Tu frappes par petites touches agaçantes, mais efficaces. Tes gestes, aussi minimes soient-ils, ont de l’impact.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 40,
+    "name": "Le Chat Flamant Rose",
+    "number": "5",
+    "description": "Tu changes de forme sans raison.",
+    "interpretation": "Tu traverses une phase de transformations étranges, élégantes et absurdes. Comme ce chat flamant rose, tu changes de forme sans prévenir, sans toujours savoir pourquoi.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 41,
+    "name": "Les Escargots Pressés",
+    "number": "6",
+    "description": "L’action existe, mais elle glisse doucement.",
+    "interpretation": "Tu avances, certes lentement, mais chaque pas est chargé d’une urgence invisible. Les autres ne voient que lenteur, toi tu sais l’effort que cela demande.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 42,
+    "name": "La Grenouille en Armure",
+    "number": "7",
+    "description": "Tu te protèges pour bondir dans le vide.",
+    "interpretation": "Tu te protèges bien plus que nécessaire. Tu es prêt(e)) à bondir, mais c’est dans le vide. Une bravoure défensive, teintée d’incertitude.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 43,
+    "name": "Le Coq Enroué",
+    "number": "8",
+    "description": "Affirmer ta présence sans le moindre cri.",
+    "interpretation": "Tu veux affirmer quelque chose, mais ta voix te trahit. On sent que tu es là, mais ton cri reste coincé. Ce silence devient un message en soi.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 44,
+    "name": "L’Araignée qui tricote",
+    "number": "9",
+    "description": "Créer dans tous les sens, sans objectif clair.",
+    "interpretation": "Tu construis des choses, mais sans toujours comprendre leur sens. Ta créativité est chaotique, touchante et sincère, même sans fil conducteur.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 45,
+    "name": "L’Hippocampe de Compétition",
+    "number": "10",
+    "description": "La course vers l’absurde est lancée.",
+    "interpretation": "Tu veux gagner une course qui n’existe pas. Tu t’élances dans des directions absurdes avec une énergie admirable. Rappelle-toi de regarder autour de toi.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 46,
+    "name": "L’Oie Tactique",
+    "number": "Valet",
+    "description": "Fonce sans réfléchir, puis réfléchis trop tard.",
+    "interpretation": "Tu agis avant de réfléchir, et quand tu réfléchis, c’est trop tard. Tu fais des erreurs brillantes. Et parfois, c’est ce qu’il fallait faire.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 47,
+    "name": "Le Lièvre à Roulettes",
+    "number": "Cavalier",
+    "description": "Toujours prêt à galoper en rond.",
+    "interpretation": "Tu bouges beaucoup, mais tu n’avances pas vraiment. Tu tournes peut-être en rond, mais au moins tu le fais avec panache.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 48,
+    "name": "La Reine des Pigeons",
+    "number": "Reine",
+    "description": "Inspire des envols erratiques.",
+    "interpretation": "Tu inspires des mouvements incontrôlables. Ton charisme est chaotique, ton influence réelle, même si personne ne comprend pourquoi.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 49,
+    "name": "Le Sceptre Fourmilier",
+    "number": "Roi",
+    "description": "Autorité étrange sur le chaos animalier.",
+    "interpretation": "Tu détiens un pouvoir étrange sur des choses que les autres jugent sans importance. Pourtant, dans ton royaume de bizarreries, tu imposes le respect.",
+    "color": "Créatures Inutiles",
+    "element": "Feu"
+  },
+  {
+    "id": 50,
+    "name": "La Soupe qui parle en rimes",
+    "number": "As",
+    "description": "L’émotion coule en poésie décalée.",
+    "interpretation": "Tu exprimes tes émotions de façon étrange et poétique. Ton cœur déborde de sentiments absurdes, mais sincères.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 51,
+    "name": "Les Oeufs Émotionnels",
+    "number": "2",
+    "description": "Deux sensibilités en équilibre précaire.",
+    "interpretation": "Tu es fragile, à fleur de coquille. Deux émotions se balancent en toi, prêtes à éclore ou à se briser.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 52,
+    "name": "Le Yaourt Hystérique",
+    "number": "3",
+    "description": "Instabilité douce et sucrée.",
+    "interpretation": "Tu vis une instabilité sucrée, douce en apparence, mais agitée à l’intérieur. Ce n’est pas grave : c’est vivant.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 53,
+    "name": "Les Croissants Tristes",
+    "number": "4",
+    "description": "Confort en pâte feuilletée nostalgique.",
+    "interpretation": "Tu cherches du réconfort dans des souvenirs moelleux. Tout sent la nostalgie chaude et beurrée.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 54,
+    "name": "La Banane qui Pleure",
+    "number": "5",
+    "description": "Il y a glissade dans l’air.",
+    "interpretation": "Tu ressens une glissade émotionnelle. C’est tendre, maladroit, et un peu ridicule — donc parfaitement humain.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 55,
+    "name": "Le Fromage Trop Mûr",
+    "number": "6",
+    "description": "Tu gardes en toi des choses qui puent un peu.",
+    "interpretation": "Tu gardes en toi des choses lourdes, odorantes, prêtes à exploser. Il est peut-être temps d’ouvrir le frigo intérieur.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 56,
+    "name": "La Glace Fondue",
+    "number": " 7",
+    "description": "Tendre, mais ça part en flaque.",
+    "interpretation": "Tu t’adoucis quand tu devrais tenir bon. Ce n’est pas une faiblesse — juste une preuve que tu ressens fort.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 57,
+    "name": "Le Lait Explosif",
+    "number": "8",
+    "description": "Explosion douce et blanche, mais imprévisible.",
+    "interpretation": "Tu as l’air paisible, mais à l’intérieur, la pression monte. Une explosion blanche et douce n’est jamais anodine.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 58,
+    "name": "Les Pâtes Al Dente Sentimentales",
+    "number": "9",
+    "description": "Tout est dans la cuisson des sentiments.",
+    "interpretation": "Tu es émotionnel(le à point. Trop cuit, tu te brises ; pas assez, tu résistes. Tu cherches la tendresse juste.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 59,
+    "name": "Le Bonbon Vengeur",
+    "number": "10",
+    "description": "L’émotion douce devient piquante.",
+    "interpretation": "Tu caches une blessure sous une couche sucrée. Mais gare à qui croquera trop fort : tu piques quand on s’y attend le moins.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 60,
+    "name": "Le Petit Pois Boudeur",
+    "number": "Valet",
+    "description": "Timide mais intense.",
+    "interpretation": "Tu es petit(e), discret(e), mais farouchement décidé(e) à rester dans ton coin. On te sous-estime, mais ton intensité ne fait aucun doute.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 61,
+    "name": "La Carotte Larmoyante",
+    "number": "Cavalier",
+    "description": "Il chevauche la mélancolie sucrée.",
+    "interpretation": "Tu avances tout en pleurant, sans forcément qu’on comprenne pourquoi. Ta douceur a besoin d’espace pour s’exprimer librement.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 62,
+    "name": "La Sorcière Chocolatée",
+    "number": "Reine",
+    "description": "Maîtrise les émotions avec tendresse sucrée.",
+    "interpretation": "Tu sais manipuler les émotions avec une tendresse rusée. Derrière ta douceur, se cache une vraie puissance affective.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 63,
+    "name": "Le Tyran Meringué",
+    "number": "Roi",
+    "description": "Gouverne avec douceur autoritaire.",
+    "interpretation": "Tu imposes ta volonté avec des formes sucrées, mais rigides. Attention à ne pas t'effondrer sous ta propre légèreté.",
+    "color": "Aliments Perturbés",
+    "element": "Eau"
+  },
+  {
+    "id": 64,
+    "name": "La Table bancale à roulettes",
+    "number": "As",
+    "description": "Le soutien est là, mais ça tangue.",
+    "interpretation": "Tu offres du soutien, mais instable. On peut te suivre, mais mieux vaut le faire en gardant l’équilibre.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 65,
+    "name": "Les Chaises ennemies",
+    "number": "2",
+    "description": "Difficile de se poser sans conflit.",
+    "interpretation": "Tu veux t’installer, mais rien ne s’aligne. Le conflit t’attend même dans les choses simples. Reste souple, ou change de pièce.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 66,
+    "name": "Le Lit qui ronfle",
+    "number": "3",
+    "description": "Inertie totale, mais active.",
+    "interpretation": "Tu sembles inactif(ve, mais ton esprit travaille en silence. Le repos est plus actif qu’il n’y paraît.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 67,
+    "name": "L’Étagère qui soupire",
+    "number": "4",
+    "description": "Supporte, mais à contrecœur.",
+    "interpretation": "Tu supportes beaucoup, sans te plaindre — ou presque. Ton souffle discret mérite qu’on l’écoute.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 68,
+    "name": "Le Frigo sans fond",
+    "number": "5",
+    "description": "Tu accumules, mais rien ne reste froid.",
+    "interpretation": "Tu accumules souvenirs et émotions, mais rien ne reste vraiment frais. Peut-être est-il temps de faire du tri.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 69,
+    "name": "Le Tapis Grincheux",
+    "number": "6",
+    "description": "Ce qui est sous tes pieds n’est pas content.",
+    "interpretation": "Tu soutiens tout le monde, mais on t’écrase. Ton grognement discret est une revendication : tu mérites d’être vu(e) aussi.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 70,
+    "name": "Le Miroir Retardataire",
+    "number": "7",
+    "description": "Ce que tu vois est toujours un peu après.",
+    "interpretation": "Tu as toujours un temps de retard sur ce que tu ressens vraiment. Ce que tu vis te parvient en écho — mais ce n’est pas moins vrai pour autant.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 71,
+    "name": "Le Lampadaire Introverti",
+    "number": "8",
+    "description": "Éclaire à peine, mais veut bien faire.",
+    "interpretation": "Tu veux éclairer le monde, mais tu préfères rester discret(e). Ta lumière douce vaut mieux qu’un grand feu artificiel.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 72,
+    "name": "La Commode qui Mord",
+    "number": "9",
+    "description": "L'organisation te teste.",
+    "interpretation": "Tu proposes du rangement, mais pas sans test. Chaque tentative d’organisation est une morsure d’hésitation ou de contrôle.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 73,
+    "name": "Le Bureau à Ressort",
+    "number": "10",
+    "description": "Instabilité de façade, efficacité cachée.",
+    "interpretation": "On te croit instable, mais c’est ta souplesse qui fait ta force. Ton efficacité jaillit là où on ne l’attend pas.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 74,
+    "name": "Le Tabouret Enfant",
+    "number": "Valet",
+    "description": "Petit, mais déterminé.",
+    "interpretation": "Tu es petit(e), mais déterminé(e). Même sans dossier, tu tiens debout. On peut te sous-estimer, mais pas te faire tomber facilement.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 75,
+    "name": "Le Canapé nomade",
+    "number": "Cavalier",
+    "description": "Confort en mouvement absurde.",
+    "interpretation": "Tu cherches le confort dans l’inconfort. Tu bouges sans cesse, mais tu cherches toujours un endroit où t’ancrer enfin.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 76,
+    "name": "L’Armoire Sarcastique",
+    "number": "Reine",
+    "description": "Elle cache tout, surtout ses jugements.",
+    "interpretation": "Tu caches bien des choses — et ton jugement. Ton ironie est un rempart, mais aussi un miroir. Gare à ce qu’elle reflète.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  },
+  {
+    "id": 77,
+    "name": "Le Trône Boudiné",
+    "number": "Roi",
+    "description": "S’impose avec une grandeur molle.",
+    "interpretation": "Tu prends de la place, sans en imposer. Ta mollesse est peut-être ta ruse, pour gouverner sans forcer.",
+    "color": "Meubles Inadaptés",
+    "element": "Terre"
+  }
+]

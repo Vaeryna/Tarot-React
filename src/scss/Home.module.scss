@@ -1,0 +1,44 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "black-chancery", fantasy;
+  color: #151515;
+}
+
+body {
+  background-image: url("../../public/assets/bg-4k-2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 50vh;
+
+}
+
+.formCheckLabel {
+  cursor: pointer;
+}
+
+.navigationBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: transparent;
+  //justify-content: space-around;
+justify-content: center ;
+
+  img {
+    max-width: 15vh;
+  }
+}

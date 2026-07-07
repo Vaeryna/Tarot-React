@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding-top: 100px;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*####################################################################*/
+@font-face {
+    font-family: "black-chancery";
+    src: local("BlackChancery"), url("../public/assets/fonts/BlackChancery.woff") format("woff");
+}
+
+body {
+    font-family: "black-chancery", fantasy;
+    text-shadow: #ffffff 1px 0 10px;
+    /*font-size: 100%;*/
+}
+
+
+.btn.btn-dark{
+    --bs-btn-color: #fff;
+    /* --bs-btn-bg: #240A00;
+    --bs-btn-border-color: #240A00; */
+    --bs-btn-bg:  #352418;
+    --bs-btn-border-color:  #352418;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #2d1a14;
+    --bs-btn-hover-border-color: #2d1a14;
+    --bs-btn-focus-shadow-rgb: 66, 70, 73;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #240A00;
+    --bs-btn-active-border-color: #240A00;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+    --bs-btn-disabled-color: #fff;
+  /*  --bs-btn-disabled-bg: #271e1b;
+    --bs-btn-disabled-border-color: #271e1b; */
+    --bs-btn-disabled-bg: #312a28;
+    --bs-btn-disabled-border-color: #312a28;
+}
